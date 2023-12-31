@@ -1,0 +1,40 @@
+/* .swiper {
+  width: 240px;
+  height: 320px;
+} */
+
+.custom-swiper {
+  width: 180px;
+  height: 380px;
+}
+
+@media screen and (min-width: 768px) {
+  /* Your CSS styles for screens with a minimum width of 600 pixels go here */
+  .custom-swiper {
+    width: 250px;
+    height: 420px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  /* Your CSS styles for screens with a minimum width of 600 pixels go here */
+  .custom-swiper {
+    width: 300px;
+    height: 420px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  /* Your CSS styles for screens with a minimum width of 600 pixels go here */
+  .custom-swiper {
+    width: 500px;
+    height: 600px;
+  }
+}
+
+.swiper-slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+}

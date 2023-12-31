@@ -1,0 +1,26 @@
+.swiper {
+  width: 330px;
+  height: 500px;
+  position: relative;
+  left: 0;
+  top: 0;
+}
+@media screen and (min-width: 768px) {
+  /* Your CSS styles for screens with a minimum width of 600 pixels go here */
+  .swiper {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 0;
+    top: 0;
+  }
+}
+.swiper-slide {
+  background-position: center;
+  background-size: cover;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+}
