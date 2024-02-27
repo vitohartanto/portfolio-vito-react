@@ -56,7 +56,7 @@ const Hero = () => {
             <h1 className="text-2xl md:text-3xl xl:text-4xl">
               I&apos;m{" "}
               <span className="text-2xl md:text-3xl font-semibold xl:text-4xl">
-                a front-end and back-end enthusiast.
+                a Front-End Developer.
               </span>
             </h1>
             <h1 className="text-2xl md:text-3xl xl:text-4xl">

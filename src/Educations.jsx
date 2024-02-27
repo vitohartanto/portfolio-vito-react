@@ -31,9 +31,9 @@ const Educations = () => {
             (2020 - Present)
           </h1>
           <h2 className="text-center md:text-lg xl:text-xl">
-            Bachelor of Electrical Engineering – GPA 3.45
+            Bachelor of Electrical Engineering – GPA 3.47
             <br />
-            (134 Credit Hours/ 149 Credit Hours)
+            (143 Credit Hours/ 149 Credit Hours)
           </h2>
           <div className="text-justify md:text-lg xl:text-xl xl:mt-4">
             <h2>
