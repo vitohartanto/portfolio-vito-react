@@ -189,7 +189,7 @@ const Projects = () => {
                   className="text-sm md:text-base xl:text-xl"
                   target="_blank"
                   rel="noreferrer"
-                  href="https://jamurkancingwinstom.com/"
+                  href="https://jamurkancingwinstom-alk0vqpat-vitohartanto.vercel.app/"
                 >
                   jamurkancingwinstom.com
                 </a>
