@@ -33,7 +33,7 @@ const Educations = () => {
           <h2 className="text-center md:text-lg xl:text-xl">
             Bachelor of Electrical Engineering – GPA 3.47
             <br />
-            (143 Credit Hours/ 149 Credit Hours)
+            (145 Credit Hours/ 149 Credit Hours)
           </h2>
           <div className="text-justify md:text-lg xl:text-xl xl:mt-4">
             <h2>
